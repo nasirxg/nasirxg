@@ -1,16 +1,19 @@
-## Hi there 👋
+# My cybersecurity journey 
+Hello I'm Nasir, a Cybersecurity student.
+## what I'm Learning 
+-Linux
+-Git & Github
+-Networking
+-Python
+-Cybersecurity Fundamentals
+-TryHackme
 
-<!--
-**nasirxg/nasirxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Goal 
+to build my cybersecurity skills through consistent Learning and practical projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progress
+-[x] create my Github respiratory 
+-[ ] Learn Git basics 
+-[ ] Learn python 
+-[ ] Complete TryHackme rooms 
+-[ ] Build my first cybersecurity project 
